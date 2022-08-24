@@ -1,0 +1,1 @@
+EB_URL=http://image-filter-proj-dev4.us-east-1.elasticbeanstalk.com/
